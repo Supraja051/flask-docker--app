@@ -19,4 +19,4 @@ jobs:
         with:
           context: ./app
           push: true
-          tags: supradevops/flask-redis-app:latest
+          tags: supraja051/flask-redis-app:latest
